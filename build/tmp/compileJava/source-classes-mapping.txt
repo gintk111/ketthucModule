@@ -1,0 +1,8 @@
+Model/Category.java
+ Model.Category
+Model/Product.java
+ Model.Product
+Controller/ProductServlet.java
+ Controller.ProductServlet
+service/ProductSevice.java
+ service.ProductSevice
